@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GDPRSampleApp</string>
+    <string name="publisher_id">pub-12345864564</string> // Sign in to admob and get your publisher id
+    <string name="interstitial_ad_id" ></string> // sign in to admon and get interstial ad id
+</resources>
